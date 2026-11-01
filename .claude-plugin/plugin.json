@@ -1,0 +1,9 @@
+{
+  "name": "session-colors",
+  "version": "0.1.0",
+  "description": "Give each Claude Code conversation its own color, so you can tell them apart in split view",
+  "author": { "name": "jbosnakis" },
+  "homepage": "https://github.com/jbosnakis/session-colors",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

@@ -1,0 +1,5 @@
+{
+  "name": "session-colors",
+  "owner": { "name": "jbosnakis" },
+  "plugins": [{ "name": "session-colors", "source": "./" }]
+}
